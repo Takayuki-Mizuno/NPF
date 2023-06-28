@@ -7,6 +7,6 @@ We provide sample code for Network Power Flow (NPF) [1] and Network Power Index 
 * URL: http://research.nii.ac.jp/~mizuno/en/index.html
 
 ## References
-[1]
+[1] Mizuno T, Doi S, Kurizaki S (2023) The Flow of Corporate Control in the Global Ownership Network. under review.
 
-[2]
+[2] Mizuno T, Doi S, Kurizaki S (2020) The Power of Corporate Control in the Global Ownership Network. PLoS ONE 15(8): e0237862. https://doi.org/10.1371/journal.pone.0237862
