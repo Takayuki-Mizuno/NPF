@@ -1,4 +1,5 @@
 # Network Power Flow (NPF)
+[![DOI](https://zenodo.org/badge/659699805.svg)](https://zenodo.org/badge/latestdoi/659699805)
 We provide sample code for Network Power Flow (NPF) [1] and Network Power Index (NPI) [2].
 
 ## Authors
